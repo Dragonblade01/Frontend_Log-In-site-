@@ -12,7 +12,7 @@ body{
   
 }
 .background{
-    background: url(/images/neon\ wallpaper.jpg) no-repeat;
+    background: url(neon wallpaper.jpg) no-repeat;
     background-position: center;
     background-size:cover ;
     height: 100vh;
